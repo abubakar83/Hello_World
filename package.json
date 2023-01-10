@@ -1,0 +1,20 @@
+{
+  "name": "Hello_World",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abubakar83/Hello_World.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abubakar83/Hello_World/issues"
+  },
+  "homepage": "https://github.com/abubakar83/Hello_World#readme"
+}
